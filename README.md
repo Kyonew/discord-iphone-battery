@@ -12,7 +12,7 @@ votre iPhone, un message embed sera envoyé avec le niveau de charge actuel ains
 ![image-integration](https://cdn.discordapp.com/attachments/930864932067610704/1107749412937142443/image.png)
 
 # Installation et configuration de Raccourcis.
- 1. Vérifiez que `Raccourcis` est bien présent sur votre iPhone. ([ou installez-la ici](https://apps.apple.com/fr/app/raccourcis/id915249334)).
+ 1. Vérifiez que `Raccourcis` est bien présent sur votre iPhone. ([ou installez-la ici](https://apps.apple.com/fr/app/raccourcis/id1462947752)).
  2. Ajoutez les raccourcis suivants à votre galerie :
  - [Raccourci lors du branchement]()
  - [Raccourci lors du débranchement]()
