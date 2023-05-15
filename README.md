@@ -31,3 +31,9 @@ votre iPhone, un message embed sera envoyé avec le niveau de charge actuel ains
 Si tout est bon, que vous avez **deux** automatisations (une au branchement et l'autre lors du débranchement) vous devriez obtenir un message à chaque branchement/débranchement de votre iPhone ! (ou iPad)
 
 # Illustations et exemples 
+**Lors du branchement de l'iPhone :**
+
+![illustration-lors-du-branchement](https://cdn.discordapp.com/attachments/930864932067610704/1107734738292199555/image.png)
+
+Lors du débranchement :
+![illustration-lors-du-debranchement](https://cdn.discordapp.com/attachments/930864932067610704/1107734833293168670/image.png)
