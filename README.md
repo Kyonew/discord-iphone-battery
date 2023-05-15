@@ -9,6 +9,8 @@ votre iPhone, un message embed sera envoyé avec le niveau de charge actuel ains
 3. Cliquez sur "Consulter les webhooks" puis créez-en un nouveau.
 4. Configurez-le avec son nom, le salon dans lequel vous voulez que les messages s'envoient, sa photo de profil puis **Copier l'URL du webhook** et conservez-la précieusement.
 
+![image-integration](https://cdn.discordapp.com/attachments/930864932067610704/1107749412937142443/image.png)
+
 # Installation et configuration de Raccourcis.
  1. Vérifiez que `Raccourcis` est bien présent sur votre iPhone. ([ou installez-la ici](https://apps.apple.com/fr/app/raccourcis/id915249334)).
  2. Ajoutez les raccourcis suivants à votre galerie :
@@ -35,5 +37,7 @@ Si tout est bon, que vous avez **deux** automatisations (une au branchement et l
 
 ![illustration-lors-du-branchement](https://cdn.discordapp.com/attachments/930864932067610704/1107734738292199555/image.png)
 
-Lors du débranchement :
+**Lors du débranchement :**
+
+
 ![illustration-lors-du-debranchement](https://cdn.discordapp.com/attachments/930864932067610704/1107734833293168670/image.png)
